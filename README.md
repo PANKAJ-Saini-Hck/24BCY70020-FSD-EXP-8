@@ -1,9 +1,3 @@
-# Personal Information
-
-Rahul Jaluthria
-24BCY70054
-24BCY-3(A)
-
 # Role-Based Access Control (RBAC) System
 
 A complete full-stack implementation of Role-Based Access Control with role hierarchy, permission management, API restrictions, and role-based UI.

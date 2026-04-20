@@ -1,9 +1,3 @@
-# Personal Information
-
-Rahul Jaluthria
-24BCY70054
-24BCY-3(A)
-
 # RBAC Backend - Role-Based Access Control System
 
 ## Overview

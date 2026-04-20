@@ -1,0 +1,68 @@
+.unauthorized-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 20px;
+}
+
+.unauthorized-card {
+  background: white;
+  padding: 60px 40px;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 500px;
+}
+
+.error-code {
+  font-size: 80px;
+  font-weight: bold;
+  color: #e74c3c;
+  margin: 0;
+  line-height: 1;
+}
+
+.unauthorized-card h1 {
+  color: #2c3e50;
+  margin: 20px 0 10px 0;
+  font-size: 32px;
+}
+
+.unauthorized-card p {
+  color: #7f8c8d;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.error-details {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px 0;
+  border-left: 4px solid #e74c3c;
+}
+
+.error-details p {
+  margin: 0;
+  font-size: 14px;
+  color: #2c3e50;
+}
+
+.btn-back {
+  background: #667eea;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-top: 20px;
+}
+
+.btn-back:hover {
+  background: #5568d3;
+}
